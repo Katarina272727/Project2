@@ -1,0 +1,22 @@
+:root {
+  /* fonts */
+  --text-16r: Montserrat;
+  --h2-36b: "Playfair Display";
+
+  /* font sizes */
+  --text-13m-size: 13px;
+  --text-14r-size: 14px;
+  --text-16r-size: 16px;
+  --font-size-lg: 18px;
+  --h2-36b-size: 36px;
+
+  /* Colors */
+  --color-gray-100: #c4c4c4;
+  --black: #282828;
+  --accent: #998431;
+  --white: #fff;
+
+  /* Paddings */
+  --padding-sm: 15px;
+  --padding-md: 30px;
+}
